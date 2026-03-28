@@ -35,7 +35,7 @@ function App() {
       {!selectedState && (
         <div style={{ marginTop: '2rem', width: '100%', animation: 'fadeInDown 0.8s ease-out' }}>
           <div style={{ position: 'relative', width: '100%', height: '65vh', borderRadius: '24px', overflow: 'hidden', border: '1px solid rgba(255,255,255,0.2)', boxShadow: '0 16px 64px rgba(0,255,204,0.15)' }}>
-            <img src="/home/razz/Downloads/Gemini_Generated_Image_4q30894q30894q30.png" alt="Terrain Analysis" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.85 }} />
+            <img src="/terrain.png" alt="Terrain Analysis" style={{ width: '100%', height: '100%', objectFit: 'cover', opacity: 0.85 }} />
             <div style={{ position: 'absolute', inset: 0, display: 'flex', flexDirection: 'column', alignItems: 'center', justifyContent: 'center', background: 'radial-gradient(circle, rgba(0,0,0,0) 0%, rgba(0,0,0,0.85) 100%)' }}>
               <img src="/hero.png" alt="Molecule" style={{ width: '120px', height: '120px', objectFit: 'contain', filter: 'drop-shadow(0 0 20px rgba(0,255,204,0.6))', animation: 'spin 15s linear infinite' }} />
               <h3 style={{ color: '#00ffcc', margin: '1.5rem 0 0 0', fontSize: '2.5rem', textShadow: '0 0 20px rgba(0,255,204,0.8)' }}>Awaiting State Selection...</h3>
