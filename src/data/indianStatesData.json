@@ -1,0 +1,1121 @@
+[
+  {
+    "id": "AP",
+    "name": "Andhra Pradesh",
+    "air": {
+      "aqi": 85,
+      "pm25": 42.5,
+      "pm10": 65.1,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.4,
+      "turbidity": 4.2,
+      "do": 6.8,
+      "tds": 350
+    },
+    "soil": {
+      "type": "Red Soil",
+      "ph": 6.8,
+      "moisture": "18%",
+      "minerals": [
+        "Nitrogen",
+        "Potassium"
+      ]
+    },
+    "agricultureNote": "Known as the Rice Bowl of India. The nitrogen-rich red and alluvial soils, aided by chemical fertilizers, yield massive crops of paddy, tobacco, and cotton.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Barytes (BaSO4)",
+        "Limestone (CaCO3)",
+        "Mica (KAl2(AlSi3O10)(OH)2)",
+        "Bauxite (Al2O3\u00b7nH2O)"
+      ],
+      "chemicalIndustries": "Pharmaceuticals, Agrochemicals, Petroleum Refining"
+    },
+    "cityHighlight": {
+      "name": "Visakhapatnam",
+      "note": "Visakhapatnam is a major chemical hub on the coast. Its massive petroleum refineries utilize fractional distillation of hydrocarbons (C_nH_{2n+2}) to produce bulk fuels, polymers, and synthetic fertilizers."
+    },
+    "wikiInfo": "Andhra Pradesh is a state on the east coast of southern India. It is the seventh-largest state and the tenth-most populous in the country. Telugu, one of the classical languages of India, is the most widely spoken language in the state, as well as its official language.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Tirumala_090615.jpg/330px-Tirumala_090615.jpg"
+  },
+  {
+    "id": "AR",
+    "name": "Arunachal Pradesh",
+    "air": {
+      "aqi": 32,
+      "pm25": 12.0,
+      "pm10": 20.5,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 7.1,
+      "turbidity": 1.5,
+      "do": 8.5,
+      "tds": 120
+    },
+    "soil": {
+      "type": "Mountain Soil",
+      "ph": 5.5,
+      "moisture": "25%",
+      "minerals": [
+        "Iron",
+        "Organic Matter"
+      ]
+    },
+    "agricultureNote": "High organic matter and rapid decomposition in these acidic mountain soils perfectly support traditional terrace farming, allowing for the growth of maize, millet, and oranges without synthetic $NPK$.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Dolomite (CaMg(CO3)2)",
+        "Graphite (C)",
+        "Limestone (CaCO3)"
+      ],
+      "chemicalIndustries": "Coal Mining, Organic Resins, Cement"
+    },
+    "cityHighlight": {
+      "name": "Itanagar",
+      "note": "Due to its pristine Himalayan location, Itanagar's local chemistry involves high dissolved oxygen ($O_2$) in mountain streams and organic carbon cycling in its dense forests, keeping its AQI incredibly low."
+    },
+    "wikiInfo": "Arunachal Pradesh is a state in northeast India. It was known as the North-East Frontier Agency until 1972, after which it became a union territory under the name Arunachal Pradesh. It became a state on 20 February 1987.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/The_Tawang_Monastery.jpg/330px-The_Tawang_Monastery.jpg"
+  },
+  {
+    "id": "AS",
+    "name": "Assam",
+    "air": {
+      "aqi": 45,
+      "pm25": 18.5,
+      "pm10": 30.2,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 6.9,
+      "turbidity": 8.4,
+      "do": 7.2,
+      "tds": 210
+    },
+    "soil": {
+      "type": "Alluvial",
+      "ph": 6.0,
+      "moisture": "30%",
+      "minerals": [
+        "Nitrogen",
+        "Phosphorus"
+      ]
+    },
+    "agricultureNote": "Acidic, nutrient-dense alluvial soils flooded annually by the Brahmaputra River create pristine conditions for tea plantations, chemically supporting the high tannin content in Assamese Tea.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Petroleum (Hydrocarbons)",
+        "Natural Gas (CH4)",
+        "Coal (C)"
+      ],
+      "chemicalIndustries": "Petrochemicals, Oil Refining, Tea Processing Chemicals"
+    },
+    "cityHighlight": {
+      "name": "Digboi",
+      "note": "Digboi is known as the Oil City of Assam. The chemistry here is dominated by alkane chains ($C_n + H_{2n+2}$) extracted from Asia's oldest operating oil well, heavily processed into fuels and paraffin."
+    },
+    "wikiInfo": "Assam is a state in northeastern India, located south of the Eastern Himalayas along the Brahmaputra and Barak River valleys. It covers an area of 78,438\u00a0km2 (30,285\u00a0sq\u00a0mi), and is the second largest state in northeastern India by area. As per the 2011 census, the state had a population of 31.2 million, and is the largest in terms of population in the region.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Beauty_of_Kaziranga_National_Park.jpg/330px-Beauty_of_Kaziranga_National_Park.jpg"
+  },
+  {
+    "id": "BR",
+    "name": "Bihar",
+    "air": {
+      "aqi": 120,
+      "pm25": 85.0,
+      "pm10": 110.5,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.8,
+      "turbidity": 12.0,
+      "do": 5.5,
+      "tds": 450
+    },
+    "soil": {
+      "type": "Alluvial",
+      "ph": 7.5,
+      "moisture": "20%",
+      "minerals": [
+        "Calcium",
+        "Potassium"
+      ]
+    },
+    "agricultureNote": "Incredibly fertile Gangetic plains provide high levels of bio-available calcium and potassium. The high water table and alkaline pH chemistry uniquely favor sugarcane, litchi, and heavy cereal cropping.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Saltpeter (KNO3)",
+        "Steatite",
+        "Quartz (SiO2)"
+      ],
+      "chemicalIndustries": "Fertilizers, Leather Tanning Chemicals, Ethanol refinery"
+    },
+    "cityHighlight": {
+      "name": "Patna",
+      "note": "Historically, Patna was a massive center for Saltpeter ($KNO_3$) production, crucial for early gunpowder and fertilizer chemistry. Today, ethanol ($C_2H_5OH$) blending is a major chemical focus."
+    },
+    "wikiInfo": "Bihar is a state in Eastern India. It is the second largest state by population, the 12th largest by area, and the 14th largest by GDP in 2024. Bihar borders Uttar Pradesh to its west, Nepal to the north, the northern part of West Bengal to the east, and Jharkhand to the south.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg/330px-Temple_No.-_3%2C_Nalanda_Archaeological_Site.jpg"
+  },
+  {
+    "id": "CG",
+    "name": "Chhattisgarh",
+    "air": {
+      "aqi": 95,
+      "pm25": 55.4,
+      "pm10": 78.0,
+      "pollutant": "SO2"
+    },
+    "water": {
+      "ph": 7.2,
+      "turbidity": 5.5,
+      "do": 6.5,
+      "tds": 280
+    },
+    "soil": {
+      "type": "Red and Yellow",
+      "ph": 6.5,
+      "moisture": "15%",
+      "minerals": [
+        "Iron",
+        "Aluminum"
+      ]
+    },
+    "agricultureNote": "Dubbed the 'Rice Bowl of Central India'. The ferric ($Fe_{3+}$) oxide rich red soils require careful pH management through lime additions to ensure maximum rice yield.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Hematite (Fe2O3)",
+        "Bauxite (Al2O3\u00b7nH2O)",
+        "Cassiterite (SnO2 - Tin)"
+      ],
+      "chemicalIndustries": "Iron & Steel Production, Alumina Smelting, Cement"
+    },
+    "cityHighlight": {
+      "name": "Bhilai",
+      "note": "Bhilai thrives on metallurgical chemistry. Iron ore ($Fe_2O_3$) is reduced using coke in massive blast furnaces to generate molten iron, a cornerstone of India's steel infrastructure."
+    },
+    "wikiInfo": "Chhattisgarh is a landlocked state in Central India. It is the ninth largest state by area, and with a population of roughly 30 million, the seventeenth most populous. It borders seven states \u2013 Uttar Pradesh to the north, Madhya Pradesh to the northwest, Maharashtra to the southwest, Jharkhand to the northeast, Odisha to the east, Andhra Pradesh and Telangana to the south.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Bhoramdeo_Temple%2C_Kawardha.jpg/330px-Bhoramdeo_Temple%2C_Kawardha.jpg"
+  },
+  {
+    "id": "GA",
+    "name": "Goa",
+    "air": {
+      "aqi": 50,
+      "pm25": 22.1,
+      "pm10": 38.0,
+      "pollutant": "O3"
+    },
+    "water": {
+      "ph": 7.5,
+      "turbidity": 2.0,
+      "do": 7.8,
+      "tds": 150
+    },
+    "soil": {
+      "type": "Laterite",
+      "ph": 5.8,
+      "moisture": "60%",
+      "minerals": [
+        "Iron",
+        "Aluminum"
+      ]
+    },
+    "agricultureNote": "Porous, highly leached laterite soils are low in silica but high in iron/aluminum chemical compounds. This acidic structure is exceptionally well-suited for cashew and coconut plantations.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Iron Ore (Fe2O3)",
+        "Manganese Ore (MnO2)",
+        "Bauxite (Al2O3)"
+      ],
+      "chemicalIndustries": "Pharmaceutical Formulations, Marine Chemicals"
+    },
+    "cityHighlight": {
+      "name": "Mormugao",
+      "note": "Known for its ports, the area historically exported Iron Ore ($Fe_2O_3$). The local soil chemistry is highly lateritic, enriched with iron and aluminum oxides that give it a striking red color."
+    },
+    "wikiInfo": "Goa is a state on the southwestern coast of India within the Konkan region. It is geographically separated from the Deccan highlands by the Western Ghats. It is bordered by the Indian states of Maharashtra to the north and Karnataka to the east and south, with the Arabian Sea forming its western coastline.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/BeachFun.jpg/330px-BeachFun.jpg"
+  },
+  {
+    "id": "GJ",
+    "name": "Gujarat",
+    "air": {
+      "aqi": 110,
+      "pm25": 65.0,
+      "pm10": 90.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 8.1,
+      "turbidity": 9.5,
+      "do": 6.0,
+      "tds": 500
+    },
+    "soil": {
+      "type": "Black Soil",
+      "ph": 8.0,
+      "moisture": "10%",
+      "minerals": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "agricultureNote": "The iconic deep Black Soil (Regur) is derived from ancient basalts. Its unique highly-alkaline, moisture-retaining montmorillonite clay chemistry is the backbone of India's cotton and groundnut supply.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Salt (NaCl)",
+        "Soda Ash (Na2CO3)",
+        "Limestone (CaCO3)"
+      ],
+      "chemicalIndustries": "Petrochemical Hub, Agrochemicals, Dyes & Intermediates, Caustic Soda"
+    },
+    "cityHighlight": {
+      "name": "Jamnagar",
+      "note": "Jamnagar hosts the world's largest oil refinery. Complex organic chemistry occurs here daily, cracking long-chain petroleum polymers into vital consumer chemicals, plastics, and high-octane fuels."
+    },
+    "wikiInfo": "Gujarat is a state along the western coast of India. Its coastline of about 2,340\u00a0km (1,450\u00a0mi) is the longest in the country, most of which lies on the Kathiawar peninsula. Gujarat is the fifth-largest Indian state by area, covering some 196,024\u00a0km2 (75,685\u00a0mi2); and the ninth-most populous state, with a population of 60.4\u00a0million in 2011.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Rani_ki_vav_02.jpg/330px-Rani_ki_vav_02.jpg"
+  },
+  {
+    "id": "HR",
+    "name": "Haryana",
+    "air": {
+      "aqi": 140,
+      "pm25": 95.0,
+      "pm10": 130.5,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.9,
+      "turbidity": 15.0,
+      "do": 5.2,
+      "tds": 600
+    },
+    "soil": {
+      "type": "Alluvial",
+      "ph": 7.8,
+      "moisture": "12%",
+      "minerals": [
+        "Nitrogen",
+        "Potassium"
+      ]
+    },
+    "agricultureNote": "Pioneers of the Green Revolution. Their agriculture heavily relies on intensive synthetic Nitrogen-Phosphorus-Potassium (NPK) chemistry and pesticide applications to force huge wheat yields.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Limestone (CaCO3)",
+        "Quartz/Silica Sand (SiO2)"
+      ],
+      "chemicalIndustries": "Petroleum Refining (Panipat Refinery), Automotive Polymers"
+    },
+    "cityHighlight": {
+      "name": "Panipat",
+      "note": "Panipat acts as a major hub for synthetic polymer chemistry. Ethylene ($C_2H_4$) and Propylene ($C_3H_6$) are polymerized here to create synthetic fibers and automotive plastics."
+    },
+    "wikiInfo": "Haryana is a state located in the northwestern part of India. It was carved out after the linguistic reorganisation of Punjab on 1 November 1966. It is ranked 21st in terms of area, with less than 1.4% of India's land area.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cyber_City_View.jpg/330px-Cyber_City_View.jpg"
+  },
+  {
+    "id": "HP",
+    "name": "Himachal Pradesh",
+    "air": {
+      "aqi": 35,
+      "pm25": 14.0,
+      "pm10": 22.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 7.2,
+      "turbidity": 1.0,
+      "do": 8.8,
+      "tds": 90
+    },
+    "soil": {
+      "type": "Mountain Soil",
+      "ph": 5.9,
+      "moisture": "22%",
+      "minerals": [
+        "Organic Matter"
+      ]
+    },
+    "agricultureNote": "The low-alkaline geology and thick decomposing humus layers naturally acidify the soil. This unique organic chemistry makes it the 'Apple State', optimizing fruit sugar synthesis.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Rock Salt (NaCl)",
+        "Limestone (CaCO3)",
+        "Gypsum (CaSO4)"
+      ],
+      "chemicalIndustries": "Pharmaceutical Manufacturing (Baddi Hub), Botanical Extracts"
+    },
+    "cityHighlight": {
+      "name": "Baddi",
+      "note": "Baddi is Asia's largest pharmaceutical hub. Billions of chemical synthesis reactions happen here daily to produce complex Active Pharmaceutical Ingredients (APIs) for global medicine."
+    },
+    "wikiInfo": "Himachal Pradesh is a state in the northern part of India. Situated in the Western Himalayas, it is one of the 13 mountain states and is characterised by an extreme landscape featuring several peaks and extensive river systems. Himachal Pradesh is the northernmost state of India and shares borders with the union territories of Jammu and Kashmir and Ladakh to the north, and the states of Punjab to the west, Haryana to the southwest, Uttarakhand to the southeast and a very narrow border with Uttar Pradesh to the south.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Kinnaur_Kailash.jpg/330px-Kinnaur_Kailash.jpg"
+  },
+  {
+    "id": "JH",
+    "name": "Jharkhand",
+    "air": {
+      "aqi": 105,
+      "pm25": 68.0,
+      "pm10": 95.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.1,
+      "turbidity": 8.0,
+      "do": 6.2,
+      "tds": 320
+    },
+    "soil": {
+      "type": "Red Soil",
+      "ph": 6.2,
+      "moisture": "14%",
+      "minerals": [
+        "Iron",
+        "Manganese"
+      ]
+    },
+    "agricultureNote": "Agriculture is limited due to extreme heavy-metal toxicity and acidic pH in mining zones. Crop chemistry here focuses heavily on drought-resistant millets that tolerate iron overexposure.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Coal (C)",
+        "Uranium Ore (U3O8)",
+        "Iron Ore (Fe2O3)",
+        "Mica (KAl2(AlSi3O10)(OH)2)",
+        "Copper Ore (CuFeS2)"
+      ],
+      "chemicalIndustries": "Metal Smelting, Uranium Processing, Coal Washeries"
+    },
+    "cityHighlight": {
+      "name": "Jamshedpur",
+      "note": "Jamshedpur relies entirely on heavy metallurgy. Hematite ($Fe_2O_3$) is smelted, and specific amounts of Carbon (C) are bonded to the iron crystal lattice to create high-tensile steel alloys."
+    },
+    "wikiInfo": "Jharkhand is a landlocked state in eastern India. The state shares borders with the states of West Bengal to the east, Chhattisgarh to the west, Uttar Pradesh to the northwest, Bihar to the north and Odisha to the south. It is the 15th largest state by area, and the 14th largest by population.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg/330px-Views_of_Shikharji_on_way_to_Anantnatha_Tonk_3.jpg"
+  },
+  {
+    "id": "KA",
+    "name": "Karnataka",
+    "air": {
+      "aqi": 65,
+      "pm25": 30.5,
+      "pm10": 55.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.3,
+      "turbidity": 3.5,
+      "do": 7.5,
+      "tds": 250
+    },
+    "soil": {
+      "type": "Red and Black",
+      "ph": 6.8,
+      "moisture": "16%",
+      "minerals": [
+        "Iron",
+        "Calcium"
+      ]
+    },
+    "agricultureNote": "Combines deeply alkaline black soil zones (perfect for cotton chemistry) with well-drained acidic lateritic soils supporting globally-renowned coffee plantation biochemistry.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Gold (Au)",
+        "Magnetite (Fe3O4)",
+        "Limestone (CaCO3)",
+        "Chromite (FeCr2O4)"
+      ],
+      "chemicalIndustries": "Biotechnology, Aerospace Polymers, Specialized Agrochemicals"
+    },
+    "cityHighlight": {
+      "name": "Bengaluru",
+      "note": "Bengaluru's chemistry is highly specialized. It excels in intricate biochemistry research (DNA sequencing, peptides) and material science, utilizing rare silicon compounds for semiconductor tech."
+    },
+    "wikiInfo": "Karnataka is a state in the southwestern region of India. It was formed as Mysore State on 1 November 1956, with the passage of the States Reorganisation Act, and renamed Karnataka in 1973. The state is bordered by the Lakshadweep Sea to the west, Goa to the northwest, Maharashtra to the north, Telangana to the northeast, Andhra Pradesh to the east, Tamil Nadu to the southeast, and Kerala to the southwest.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Hampi_virupaksha_temple.jpg/330px-Hampi_virupaksha_temple.jpg"
+  },
+  {
+    "id": "KL",
+    "name": "Kerala",
+    "air": {
+      "aqi": 40,
+      "pm25": 18.0,
+      "pm10": 28.0,
+      "pollutant": "NO2"
+    },
+    "water": {
+      "ph": 7.0,
+      "turbidity": 5.0,
+      "do": 8.0,
+      "tds": 180
+    },
+    "soil": {
+      "type": "Laterite",
+      "ph": 5.6,
+      "moisture": "40%",
+      "minerals": [
+        "Aluminum",
+        "Iron"
+      ]
+    },
+    "agricultureNote": "Unique 'spice chemistry' thrives here: heavily leached, acidic soils enriched by monsoons allow intricate secondary plant metabolites to form\u2014resulting in potent pepper, cardamom, and rubber resins.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Ilmenite (FeTiO3)",
+        "Rutile (TiO2)",
+        "Monazite (Thorium/Rare Earths)",
+        "Zircon (ZrSiO4)"
+      ],
+      "chemicalIndustries": "Rare Earth Extraction, Titanium Dioxide Pigments, Rubber Processing"
+    },
+    "cityHighlight": {
+      "name": "Kollam",
+      "note": "Kollam's beaches hold incredible chemical value. They are rich in Monazite sand, containing heavy radioactive elements like Thorium ($Th$) and complex rare-earth phosphates vital for nuclear research."
+    },
+    "wikiInfo": "Kerala is an Indian state on the Malabar Coast. It was formed on 1 November 1956 under the States Reorganisation Act, which unified the country's Malayalam-speaking regions into a single state. Covering 38,863\u00a0km2 (15,005\u00a0sq\u00a0mi), it is bordered by Karnataka to the north and northeast, Tamil Nadu to the east and south, and the Laccadive Sea to the west.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Boathouse_%287063399547%29.jpg/330px-Boathouse_%287063399547%29.jpg"
+  },
+  {
+    "id": "MP",
+    "name": "Madhya Pradesh",
+    "air": {
+      "aqi": 80,
+      "pm25": 40.0,
+      "pm10": 70.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 7.5,
+      "turbidity": 6.0,
+      "do": 6.7,
+      "tds": 300
+    },
+    "soil": {
+      "type": "Black Soil",
+      "ph": 7.2,
+      "moisture": "14%",
+      "minerals": [
+        "Calcium",
+        "Potassium"
+      ]
+    },
+    "agricultureNote": "The leading producer of soybeans. These leguminous crops excel in the lime-rich ($CaO$) black soils, using root-nodule bacteria to biologically fix atmospheric Nitrogen ($N_2$) into natural ammonium.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Copper Ore (CuFeS2)",
+        "Manganese Ore (MnO2)",
+        "Diamonds (C)",
+        "Bauxite (Al2O3)"
+      ],
+      "chemicalIndustries": "Cement Manufacturing, Soybean Extrusions, Fertilizers"
+    },
+    "cityHighlight": {
+      "name": "Panna",
+      "note": "Panna is famous for its Diamonds. A diamond is structurally pure Carbon ($C$) bonded in an incredibly tight, pressure-forged tetrahedral lattice, making it the hardest natural substance."
+    },
+    "wikiInfo": "Madhya Pradesh is a state in central India. Its capital is Bhopal. Other major cities include Indore, Gwalior, Jabalpur, Chhindwara, and Sagar.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Mahakaleshwar_Temple%2C_Ujjain.jpg/330px-Mahakaleshwar_Temple%2C_Ujjain.jpg"
+  },
+  {
+    "id": "MH",
+    "name": "Maharashtra",
+    "air": {
+      "aqi": 90,
+      "pm25": 48.0,
+      "pm10": 75.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.6,
+      "turbidity": 7.5,
+      "do": 6.5,
+      "tds": 380
+    },
+    "soil": {
+      "type": "Black Soil",
+      "ph": 7.4,
+      "moisture": "15%",
+      "minerals": [
+        "Calcium",
+        "Magnesium"
+      ]
+    },
+    "agricultureNote": "Famous for Alphonso mangoes and sugarcane. High levels of soluble Calcium and Magnesium carbonates ($CaCO_3$, $MgCO_3$) buffer the soil pH, allowing for immense sugar (sucrose) synthesis in the plants.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Bauxite (Al2O3)",
+        "Manganese (MnO2)",
+        "Limestone (CaCO3)"
+      ],
+      "chemicalIndustries": "Petrochemicals, Agrochemicals, Polymers, Major Pharmaceutical APIs"
+    },
+    "cityHighlight": {
+      "name": "Mumbai",
+      "note": "Mumbai acts as a titanic hub for industrial chemistry. Near the coast, large petrochemical plants synthesize vital organic monomers and complex synthetic resin polymers."
+    },
+    "wikiInfo": "Maharashtra is a state in the western peninsular region of India occupying a substantial portion of the Deccan Plateau. It is bordered by the Arabian Sea to the west, the Indian states of Karnataka and Goa to the south, Telangana to the southeast and Chhattisgarh to the east, Gujarat and Madhya Pradesh to the north, and the Indian union territory of Dadra and Nagar Haveli and Daman and Diu to the northwest. Maharashtra is the second-most populous state in India, the third-most populous country subdivision in South Asia, and the fourth-most populous in the world.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Cave_26%2C_Ajanta.jpg/330px-Cave_26%2C_Ajanta.jpg"
+  },
+  {
+    "id": "MN",
+    "name": "Manipur",
+    "air": {
+      "aqi": 38,
+      "pm25": 15.0,
+      "pm10": 24.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 7.1,
+      "turbidity": 2.5,
+      "do": 8.2,
+      "tds": 140
+    },
+    "soil": {
+      "type": "Red and Yellow",
+      "ph": 6.0,
+      "moisture": "28%",
+      "minerals": [
+        "Iron",
+        "Organic Matter"
+      ]
+    },
+    "agricultureNote": "Agriculture leans heavily on natural 'slash and burn' ash chemistry, returning oxidized carbon and potassium directly into the yellow-red acidic soils to spur brief bursts of crop fertility.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Limestone (CaCO3)",
+        "Chromite (FeCr2O4)"
+      ],
+      "chemicalIndustries": "Organic Extracts, Traditional Natural Dyeing"
+    },
+    "cityHighlight": {
+      "name": "Ukhrul",
+      "note": "Known for Chromite ($FeCr_2O_4$) deposits, the area's geology contributes heavily to chromium chemistry, which is essential for stainless steel alloying and refractory materials."
+    },
+    "wikiInfo": "Manipur is a state in northeastern India with Imphal as its capital. It borders the Indian states of Assam to the west, Mizoram to the south, and Nagaland to the north and shares the international border with Myanmar, specifically the Sagaing Region to the east and Chin State to the southeast. Covering an area of 22,330 square kilometers (8,621\u00a0mi\u00b2), the state consists mostly of hilly terrain with the 1813-square-kilometre (700\u00a0mi\u00b2) Imphal Valley inhabited by the Meitei (Manipuri) community, historically a kingdom.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg/330px-Breathtaking_beauty_of_Dzukou_Valley_in_Manipur-Nagaland_border_%28edit%29.jpg"
+  },
+  {
+    "id": "ML",
+    "name": "Meghalaya",
+    "air": {
+      "aqi": 30,
+      "pm25": 10.0,
+      "pm10": 18.0,
+      "pollutant": "O3"
+    },
+    "water": {
+      "ph": 6.8,
+      "turbidity": 1.8,
+      "do": 8.6,
+      "tds": 110
+    },
+    "soil": {
+      "type": "Laterite",
+      "ph": 5.4,
+      "moisture": "65%",
+      "minerals": [
+        "Iron",
+        "Aluminum"
+      ]
+    },
+    "agricultureNote": "Heavy continual rains wash away soluble basic cations ($Ca_{2+}$, $Na_+$), leaving highly acidic, iron-rich agricultural soils demanding massive organic compost for bio-chemical neutralization.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "High-Grade Limestone (CaCO3)",
+        "Coal (C)",
+        "Uranium Ore"
+      ],
+      "chemicalIndustries": "Cement Clinker Production, Coal Refining"
+    },
+    "cityHighlight": {
+      "name": "Cherrapunji",
+      "note": "The massive rainfall here heavily weathers the rock, resulting in complex dissolution chemistry where Limestone ($CaCO_3$) is slowly dissolved by carbonic acid in the rain, forming massive cave networks."
+    },
+    "wikiInfo": "Meghalaya is a state in northeast India. Its capital is Shillong. Meghalaya was formed on 21 January 1972 by carving out two districts from the state of Assam: the united Khasi Hills and Jaintia Hills, and the Garo Hills.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Dawki_River%2C_Meghalaya%2C_India.jpg/330px-Dawki_River%2C_Meghalaya%2C_India.jpg"
+  },
+  {
+    "id": "MZ",
+    "name": "Mizoram",
+    "air": {
+      "aqi": 32,
+      "pm25": 11.0,
+      "pm10": 19.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.0,
+      "turbidity": 2.0,
+      "do": 8.4,
+      "tds": 130
+    },
+    "soil": {
+      "type": "Red and Yellow",
+      "ph": 5.8,
+      "moisture": "35%",
+      "minerals": [
+        "Iron"
+      ]
+    },
+    "agricultureNote": "Dependent on purely organic biomass chemistry. Local bamboo provides immense cellulose stores, which natively break down to replenish nitrogen without synthetic chemicals.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Hydrocarbons (Natural Gas)",
+        "Hardwood/Bamboo Biomass"
+      ],
+      "chemicalIndustries": "Biomass derivatives, Essential oil extraction"
+    },
+    "cityHighlight": {
+      "name": "Aizawl",
+      "note": "Chemistry in this region is often driven by local biomass. Lignin and cellulose from vast bamboo forests are naturally broken down into complex organic hydrocarbons."
+    },
+    "wikiInfo": "Mizoram is a state in northeastern India, with Aizawl as its capital and largest city. It shares 722-kilometres of international borders with Bangladesh to the west, and Myanmar to the east and south, with domestic borders with the Indian states of Assam, Manipur, and Tripura. It covers an area of 21,081 square kilometres.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG/330px-Embossed_Figures_Kawtchhuah_Ropui_Vangchhia_Mapuia_Hnamte_%281%29.JPG"
+  },
+  {
+    "id": "NL",
+    "name": "Nagaland",
+    "air": {
+      "aqi": 36,
+      "pm25": 14.0,
+      "pm10": 23.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 7.2,
+      "turbidity": 2.2,
+      "do": 8.3,
+      "tds": 135
+    },
+    "soil": {
+      "type": "Laterite",
+      "ph": 5.5,
+      "moisture": "30%",
+      "minerals": [
+        "Iron",
+        "Aluminum"
+      ]
+    },
+    "agricultureNote": "Mountain terraces here use intricate biological nitrogen fixing practices via specific tree-cropping systems, keeping the soil biochemistry stable for hillside rice cultivation.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Coal (C)",
+        "Nickel Oxide Ores",
+        "Cobalt (Co) traces"
+      ],
+      "chemicalIndustries": "Petroleum extraction, Regional wood-based resins"
+    },
+    "cityHighlight": {
+      "name": "Kiphire",
+      "note": "Kiphire holds rare geological formations containing trace Nickel ($Ni$) and Cobalt ($Co$). Processing these metals requires specialized metallurgical oxidation and reduction chemistry."
+    },
+    "wikiInfo": "Nagaland is a state in the north-eastern region of India. It is bordered by the Indian states of Arunachal Pradesh to the north, Assam to the west, Manipur to the south, and the Naga Self-Administered Zone of the Sagaing Region of Myanmar (Burma) to the east. Its capital city is Kohima and its largest city is the twin Ch\u00fcmoukedima\u2013Dimapur.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Kapamodzu.jpg/330px-Kapamodzu.jpg"
+  },
+  {
+    "id": "OR",
+    "name": "Odisha",
+    "air": {
+      "aqi": 82,
+      "pm25": 42.0,
+      "pm10": 68.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.4,
+      "turbidity": 8.5,
+      "do": 6.6,
+      "tds": 310
+    },
+    "soil": {
+      "type": "Red and Laterite",
+      "ph": 6.1,
+      "moisture": "18%",
+      "minerals": [
+        "Iron",
+        "Manganese"
+      ]
+    },
+    "agricultureNote": "Coastal salinity poses severe chemical challenges to crops here. The influx of $Na^+$ and $Cl^-$ ions from sea breezes requires carefully bred salt-tolerant rice strains to prevent cellular dehydration.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Bauxite (Al2O3)",
+        "Chromite (FeCr2O4)",
+        "Iron Ore (Fe2O3)",
+        "Coal (C)"
+      ],
+      "chemicalIndustries": "Alumina Smelting, Ferro-alloy synthesis, Heavy Water production"
+    },
+    "cityHighlight": {
+      "name": "Talcher",
+      "note": "Talcher is heavily tied to Heavy Water ($D_2O$) chemistry. Deuterium oxide is isolated and produced here in mass quantities to serve as a high-density moderator in India's nuclear reactors."
+    },
+    "wikiInfo": "Odisha, spelled Orissa until 2011, is a state located in Eastern India. It is the eighth-largest state by area, and the eleventh-largest by population, with over 41 million inhabitants. The state also has the third-largest population of Scheduled Tribes in India.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Konarka_Temple.jpg/330px-Konarka_Temple.jpg"
+  },
+  {
+    "id": "PB",
+    "name": "Punjab",
+    "air": {
+      "aqi": 135,
+      "pm25": 92.0,
+      "pm10": 125.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.8,
+      "turbidity": 14.0,
+      "do": 5.4,
+      "tds": 550
+    },
+    "soil": {
+      "type": "Alluvial",
+      "ph": 7.7,
+      "moisture": "12%",
+      "minerals": [
+        "Nitrogen",
+        "Potassium"
+      ]
+    },
+    "agricultureNote": "The breadbasket of India. Its agriculture is heavily defined by synthetic Haber-Bosch chemical additions\u2014insane quantities of Urea are applied daily, sometimes leading to nitrate groundwater pollution.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Silica Sand (SiO2)"
+      ],
+      "chemicalIndustries": "Nitrogenous Fertilizers (Urea), Agrochemicals, Petroleum Refining"
+    },
+    "cityHighlight": {
+      "name": "Bhatinda",
+      "note": "Agriculture demands massive amounts of Nitrogen chemistry. Fertilizers primarily rely on Haber process derived compounds like Urea ($(NH_2)_2CO$) to chemically enrich the state's alluvial soils."
+    },
+    "wikiInfo": "Punjab is a geographical, ethnolinguistic, and historical region in South Asia, located in its northwestern part, comprising areas of modern-day Pakistan and northwestern India. It is primarily inhabited by the Punjabi people. Lahore is its largest city and historic capital, with other major cities including Faisalabad, Rawalpindi, Gujranwala, Multan, Sialkot, Sargodha, and Bahawalpur in Pakistan; alongside Ludhiana, Amritsar, Chandigarh, Jalandhar, Patiala, Mohali, Bathinda, Firozpur, and Fazilka in India.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Punjab_map_%28topographic%29_with_cities.png/330px-Punjab_map_%28topographic%29_with_cities.png"
+  },
+  {
+    "id": "RJ",
+    "name": "Rajasthan",
+    "air": {
+      "aqi": 150,
+      "pm25": 98.0,
+      "pm10": 180.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 8.2,
+      "turbidity": 18.0,
+      "do": 5.0,
+      "tds": 800
+    },
+    "soil": {
+      "type": "Desert Soil",
+      "ph": 8.4,
+      "moisture": "5%",
+      "minerals": [
+        "Calcium",
+        "Phosphates"
+      ]
+    },
+    "agricultureNote": "Excessively high calcium carbonate ($CaCO_3$) and soluble salts make the desert soil intensely alkaline. To farm here, massive chemical treatments using Gypsum ($CaSO_4$) are required to lower the pH.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Sphalerite (ZnS)",
+        "Galena (PbS)",
+        "Gypsum (CaSO4\u00b72H2O)",
+        "Rock Phosphate"
+      ],
+      "chemicalIndustries": "Zinc & Lead Smelting, Fertilizer Manufacturing, Cement Binders"
+    },
+    "cityHighlight": {
+      "name": "Udaipur",
+      "note": "Udaipur dominates in Zinc Smelting. Sphalerite ($ZnS$) is chemically roasted with oxygen to produce Zinc Oxide ($ZnO$), which is then refined into pure metallic zinc using electrolysis."
+    },
+    "wikiInfo": "Rajasthan is a state in northwestern India. It is the largest Indian state by area and the seventh largest by population. It covers 342,239 square kilometres (132,139\u00a0mi2) or 10.4 per cent of India's total geographical area.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Thar_Khuri.jpg/330px-Thar_Khuri.jpg"
+  },
+  {
+    "id": "SK",
+    "name": "Sikkim",
+    "air": {
+      "aqi": 25,
+      "pm25": 8.0,
+      "pm10": 15.0,
+      "pollutant": "O3"
+    },
+    "water": {
+      "ph": 7.1,
+      "turbidity": 1.2,
+      "do": 8.9,
+      "tds": 80
+    },
+    "soil": {
+      "type": "Mountain Soil",
+      "ph": 5.2,
+      "moisture": "24%",
+      "minerals": [
+        "Organic Matter"
+      ]
+    },
+    "agricultureNote": "The first 100% fully organic state. They have permanently banned synthetic $NH_3$ based fertilizers and chlorinated pesticides, relying solely on highly complicated biological soil-web chemistry.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Chalcopyrite (CuFeS2)",
+        "Graphite (C)",
+        "Zinc Ore"
+      ],
+      "chemicalIndustries": "Organic Biocides, Hydro-power associated electrochemicals"
+    },
+    "cityHighlight": {
+      "name": "Rangpo",
+      "note": "Due to strict organic farming laws, synthetic chemistry is minimized. Natural biochemistries like nitrogen fixing via native fungi and complex organic composting cycles replace standard $NPK$ fertilizers."
+    },
+    "wikiInfo": "Sikkim is a state in northeastern India. It borders Bhutan in the east, the Tibet Autonomous Region of China in the north and northeast, Koshi Province of Nepal in the west, and West Bengal in the south. Sikkim is also close to the Siliguri Corridor, which borders Bangladesh.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Buddha_statue_at_Buddha_Park_of_Ravangla%2C_Sikkim%2C_India_%281%29.jpg/330px-Buddha_statue_at_Buddha_Park_of_Ravangla%2C_Sikkim%2C_India_%281%29.jpg"
+  },
+  {
+    "id": "TN",
+    "name": "Tamil Nadu",
+    "air": {
+      "aqi": 70,
+      "pm25": 35.0,
+      "pm10": 60.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 7.5,
+      "turbidity": 4.5,
+      "do": 7.2,
+      "tds": 270
+    },
+    "soil": {
+      "type": "Red Soil",
+      "ph": 6.7,
+      "moisture": "14%",
+      "minerals": [
+        "Iron",
+        "Calcium"
+      ]
+    },
+    "agricultureNote": "Combines deeply leached iron-oxide soils with massive sugarcane and banana setups. Extensive chemical soil testing helps farms optimize trace elements like Zinc and Boron for max yields.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Lignite (Coal)",
+        "Ilmenite (FeTiO3)",
+        "Limestone (CaCO3)",
+        "Magnesite (MgCO3)"
+      ],
+      "chemicalIndustries": "Textile Dyes, Chlor-Alkali chemicals (Caustic Soda), Leather Tanning Compounds"
+    },
+    "cityHighlight": {
+      "name": "Thoothukudi",
+      "note": "A primary hub for the Chlor-Alkali process. Salt water (brine) undergoes electrolysis to yield highly reactive Chlorine ($Cl_2$) gas and Caustic Soda ($NaOH$), core chemicals for textiles."
+    },
+    "wikiInfo": "Tamil Nadu is the southernmost state of India. The tenth largest Indian state by area and the sixth largest by population, it is the home of the Tamils, who speak the Tamil language, the state's official language and the first to be recognised as a classical language in India. Chennai is the state's largest city and capital.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Mamallapuram_view.jpg/330px-Mamallapuram_view.jpg"
+  },
+  {
+    "id": "TG",
+    "name": "Telangana",
+    "air": {
+      "aqi": 78,
+      "pm25": 38.0,
+      "pm10": 65.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.4,
+      "turbidity": 5.0,
+      "do": 7.0,
+      "tds": 290
+    },
+    "soil": {
+      "type": "Red and Black",
+      "ph": 7.0,
+      "moisture": "15%",
+      "minerals": [
+        "Calcium",
+        "Potassium"
+      ]
+    },
+    "agricultureNote": "Red soils are dominant, meaning they lack natural phosphates and nitrogen. Highly concentrated Diammonium Phosphate ($DAP$) chemistry is relied upon to grow vast commercial seeds and cotton.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Coal (C)",
+        "Limestone (CaCO3)",
+        "Iron Ore (Fe2O3)"
+      ],
+      "chemicalIndustries": "Bulk Drug Manufacturing (API Hub), Synthetic Pharmaceuticals, Fertilizers"
+    },
+    "cityHighlight": {
+      "name": "Hyderabad",
+      "note": "Genome Valley in Hyderabad is India's biological chemistry capital. Scientists here map complex polypeptide chains and conduct synthetic drug manufacturing using highly precise catalytic reagents."
+    },
+    "wikiInfo": "Telangana is a state in India situated in the south-central part of the Indian subcontinent on the high Deccan Plateau. It is the eleventh largest state by area and the twelfth most populated state in India, according to the 2011 census. On 2 June 2014, Telangana was separated from the northwestern part of United Andhra Pradesh as a newly formed state, with Hyderabad as its capital.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Master_piece_of_ramappa_temple.jpg/330px-Master_piece_of_ramappa_temple.jpg"
+  },
+  {
+    "id": "TR",
+    "name": "Tripura",
+    "air": {
+      "aqi": 42,
+      "pm25": 18.0,
+      "pm10": 28.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.0,
+      "turbidity": 3.0,
+      "do": 8.1,
+      "tds": 160
+    },
+    "soil": {
+      "type": "Red and Yellow",
+      "ph": 5.9,
+      "moisture": "32%",
+      "minerals": [
+        "Iron"
+      ]
+    },
+    "agricultureNote": "The low pH soils severely restrict nutrient availability, forcing farmers to use liming ($Ca(OH)_2$ additions) to neutralize acidity before successful latex-rich rubber plantations can be sustained.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Natural Gas (CH4)",
+        "Glass Sand (SiO2)"
+      ],
+      "chemicalIndustries": "Methanol Production, Latex Polymer processing"
+    },
+    "cityHighlight": {
+      "name": "Agartala",
+      "note": "Agartala relies on natural gas Methane ($CH_4$) chemistry. By reacting methane with steam over a catalyst, they produce synthesis gas, which is converted to Methanol ($CH_3OH$) or Urea."
+    },
+    "wikiInfo": "Tripura is a state in northeastern India. The third-smallest state in the country, it covers 10,491\u00a0km2 (4,051\u00a0sq\u00a0mi); and the seventh-least populous state with a population of 3.67 million. It is bordered by Assam and Mizoram to the east, and by Bangladesh to the north, south and west.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Tripura_State_Museum_Agartala_Tripura_India.jpg/330px-Tripura_State_Museum_Agartala_Tripura_India.jpg"
+  },
+  {
+    "id": "UP",
+    "name": "Uttar Pradesh",
+    "air": {
+      "aqi": 160,
+      "pm25": 110.0,
+      "pm10": 150.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.9,
+      "turbidity": 15.5,
+      "do": 5.1,
+      "tds": 650
+    },
+    "soil": {
+      "type": "Alluvial",
+      "ph": 7.6,
+      "moisture": "13%",
+      "minerals": [
+        "Nitrogen",
+        "Potassium"
+      ]
+    },
+    "agricultureNote": "India's sugarcane powerhouse. The massive agricultural output requires immense organic carbohydrate chemistry, converting rich alluvial mineral nutrients directly into stored sucrose.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Limestone (CaCO3)",
+        "Silica Sand (SiO2)",
+        "Coal (C)"
+      ],
+      "chemicalIndustries": "Urea Fertilizers, Sulfuric Acid manufacturing, Synthetic Fibers, Sugar extracts"
+    },
+    "cityHighlight": {
+      "name": "Kanpur",
+      "note": "Kanpur is a traditional hub for Leather Tanning chemistry. Chromium sulfate ($Cr_2(SO_4)_3$) is wildly used to cross-link collagen fibers in animal hides, effectively preventing decay."
+    },
+    "wikiInfo": "Uttar Pradesh is a state in northern India. With over 241\u00a0million inhabitants, it is the most populated state not just in India but worldwide \u2013 if it were a country, it would be the sixth-largest in the world \u2013 and accounting for 17% of the population of India and around 3% of the total world population. The state is bordered by Rajasthan to the west, Haryana, Himachal Pradesh and Delhi to the northwest, Uttarakhand and Nepal to the north, Bihar to the east, Madhya Pradesh, Chhattisgarh and Jharkhand to the south.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Taj_Mahal_%28Edited%29.jpeg/330px-Taj_Mahal_%28Edited%29.jpeg"
+  },
+  {
+    "id": "UT",
+    "name": "Uttarakhand",
+    "air": {
+      "aqi": 45,
+      "pm25": 20.0,
+      "pm10": 32.0,
+      "pollutant": "PM10"
+    },
+    "water": {
+      "ph": 7.2,
+      "turbidity": 2.5,
+      "do": 8.5,
+      "tds": 120
+    },
+    "soil": {
+      "type": "Mountain Soil",
+      "ph": 5.8,
+      "moisture": "20%",
+      "minerals": [
+        "Organic Matter",
+        "Iron"
+      ]
+    },
+    "agricultureNote": "Steep slopes and heavy rainfall create heavily leached acidic soils. Specialized alpine agriculture relies completely on robust organic forest humus chemistry instead of fast-acting synthetic fertilizers.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Dolomite (CaMg(CO3)2)",
+        "Talc/Steatite (Mg3Si4O10(OH)2)",
+        "Magnesite (MgCO3)"
+      ],
+      "chemicalIndustries": "Pharmaceutical Formulations, Perfumery and Essential Oils"
+    },
+    "cityHighlight": {
+      "name": "Dehradun",
+      "note": "Due to enormous forest coverage, essential oil extraction chemistry thrives here. Volatile aromatic compounds like terpenes ($C_{10}H_{16}$) are isolated from plants via steam distillation."
+    },
+    "wikiInfo": "Uttarakhand, also known as Uttaranchal, is a state in northern India. The state is bordered by Himachal Pradesh to the northwest, Tibet to the north, Nepal to the east and Uttar Pradesh to the south. Uttarakhand has a total area of 53,483\u00a0km2 (20,650\u00a0sq\u00a0mi), equal to 1.6% of the total area of India.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Auli%2C_India.jpg/330px-Auli%2C_India.jpg"
+  },
+  {
+    "id": "WB",
+    "name": "West Bengal",
+    "air": {
+      "aqi": 115,
+      "pm25": 75.0,
+      "pm10": 105.0,
+      "pollutant": "PM2.5"
+    },
+    "water": {
+      "ph": 7.6,
+      "turbidity": 10.0,
+      "do": 5.8,
+      "tds": 420
+    },
+    "soil": {
+      "type": "Alluvial and Laterite",
+      "ph": 6.8,
+      "moisture": "22%",
+      "minerals": [
+        "Iron",
+        "Phosphorus"
+      ]
+    },
+    "agricultureNote": "Dominant in Jute and Paddy. Jute plants leverage the intense moisture and rich nitrogenous floodplain chemistry to synthesize incredibly strong and long cellulose-lignin hybrid plant fibers.",
+    "chemicalProfile": {
+      "abundantMinerals": [
+        "Coal (C)",
+        "Apatite (Ca5(PO4)3(OH,F,Cl))",
+        "Fireclay"
+      ],
+      "chemicalIndustries": "Basic Organic Chemicals, Synthetic Polymers, Leather Tanning, Nitrogenous Fertilizers"
+    },
+    "cityHighlight": {
+      "name": "Haldia",
+      "note": "Haldia is a dominant petrochemical center. Through catalytic cracking chemistry, crude oil feedstocks are broken into basic building blocks like benzene ($C_6H_6$) for widespread industrial use."
+    },
+    "wikiInfo": "West Bengal is a state in the eastern portion of India. It is situated along the Bay of Bengal. It had a population of over 91 million inhabitants within an area of 88,752\u00a0km2 (34,267\u00a0sq\u00a0mi) as of 2011.",
+    "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Howrah_bridge_betwixt_Lights.jpg/330px-Howrah_bridge_betwixt_Lights.jpg"
+  }
+]
